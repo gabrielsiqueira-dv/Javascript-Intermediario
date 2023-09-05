@@ -1,4 +1,7 @@
-let filmes = ['Vingadore', 'mulher Maravilha']
-console.log(filmes[0])
-let deitar = filmes.length
-console.log(deitar)
+let filmes = [
+                ['Vingadore', 4.5,true], 
+                ['mulher Maravilha',4.6 ,false,[ 'Gal Gardot',25]]
+             ]
+console.table(filmes[1][3][0])
+
+
