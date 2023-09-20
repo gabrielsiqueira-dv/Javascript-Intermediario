@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+#corAzul{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+
+}
+#corVermelha{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
